@@ -1,7 +1,7 @@
 # html-css-js
 Just some concise notes of these 3 language and some exercises
 
-What you will find in this repository:
+### What you will find in this repository:
 
 (1) Basic Knowledge Notes of HTML, CSS, Javascript
 
@@ -13,7 +13,7 @@ What you will find in this repository:
 
 (5) How to build an interactive personal website using these stuffs
 
-Below are some advanced stuffs (Optional, just provide notes, if needs advice please ask in person)
+### Below are some advanced stuffs (Optional, just provide notes, if needs advice please ask in person)
 
 (1) Learn how to use Electron to build an Desktop App like Discord & Visual Studio Code
 
@@ -30,3 +30,10 @@ Below are some advanced stuffs (Optional, just provide notes, if needs advice pl
 (7) Optimisation of the website, app. Learn how to use Debugger and Patcher.
 
 I guess thats all, if there is anything that would like me to include, please open an issue and I will take a look into it and add it into the repository.
+
+
+# Acknowledgements
+
+This repository is created by Tommy Han, all right reserved.
+
+You may use the stuffs inside for further education, but please quote my name for the reference.
