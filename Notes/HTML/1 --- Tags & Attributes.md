@@ -10,8 +10,10 @@ Every tag has a start tag and a end tag, please, remember to fucking close the t
 
 Balance Structure. 
 
-Most commonly seen tags(Except those <html> <body> <head> shit) : <h_> <p>
-
+Most commonly seen tags(Except those <html> <body> <head> shit) : 
+```
+<h_> <p>
+```
 They are the most commonly used tags. <h1> means the largest heading, and <p> is paragraph.
 
 
@@ -53,7 +55,9 @@ Mostly the two will use together.
 
 ### Some special tags
 
-- <q> <blockquote> <abbr>
+```
+<q> <blockquote> <abbr>
+```
 
 	These are for speicals uses, mainly for blogs and encyclopedia
 
