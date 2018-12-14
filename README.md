@@ -9,9 +9,7 @@ Just some concise notes of these 3 language and some exercises
 
 (3) Some Progressive Exercises to master the basic of these 3 languages
 
-(4) How to build a Hosting website using these stuffs and node.js as the backend
-
-(5) How to build an interactive personal website using these stuffs
+(4) How to build an interactive personal website using these stuffs
 
 ### Below are some advanced stuffs (Optional, just provide notes, if needs advice please ask in person)
 
