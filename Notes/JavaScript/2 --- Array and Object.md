@@ -35,8 +35,8 @@ fruits.length;   // the length of fruits is 3
 ```
 
 ### The Difference Between Arrays and Objects
-- arrays use numbered indexes.  
-- objects use named indexes.
+- arrays use numbered indexes with [] bracket.  
+- objects use named indexes with {} bracket.
 ```
 Arrays are a special kind of objects, with numbered indexes.
 ```
