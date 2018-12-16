@@ -32,4 +32,12 @@ var x = func(4, 3); // Same as above
 var d = function(x, y) {return x*y;}
 var x = d(3, 4) // Same also
 ```
-# These last two characteristics are commonly used in event handler.
+## These last two characteristics are commonly used in event handler.
+
+# Scope
+In JavaScript there are two types of scope:
+- Local scope (variable declared inside a function, is LOCAL)
+- Global scope (variable declared outside a function, becomes GLOBAL)
+
+ If you assign a value to a variable that has not been declared i.e. a="somthing", it will automatically become a GLOBAL variable which is not encouraged
+### We should avoid using GLOBAL variable as much as possible
