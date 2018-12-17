@@ -1,4 +1,4 @@
-# Introduction
+# Basic Introduction
 JavaScript (JS) is a programming language used mainly inside a browser. 
 
 JavaScript has C/C++ like programming syntax,
