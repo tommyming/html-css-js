@@ -22,7 +22,7 @@ var newArray = myArray;
 ```
 ## Object
 
-Objects use names to access its "members". In this example, person.firstName returns John:
+Objects use names to access its "members". In this example, _person.firstName_ returns _John_:
 ```
 var person = {firstName:"John", lastName:"Titor", age:30}; // person.firstName is "John"
 ```
@@ -35,8 +35,14 @@ fruits.length;   // the length of fruits is 3
 ```
 
 ### The Difference Between Arrays and Objects
-- arrays use numbered indexes with [] bracket.  
-- objects use named indexes with {} bracket.
+- arrays 
+1. use numbered indexes 
+2. [] operator to access the elements
+3. [] to initialize 
+- objects 
+1. use named indexes 
+2. . operator to access the elements
+3. {} to initialize
 ```
 Arrays are a special kind of objects, with numbered indexes.
 ```
