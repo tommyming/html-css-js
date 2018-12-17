@@ -53,7 +53,7 @@ for (statement 1; statement 2; statement 3) {
 }
 ```
 - statement 1: sets a variable before the loop starts (var i = 0)
-- statement 2: defines the condition for the loop to run (i must be less than 5), otherwise, it continue
+- statement 2: defines the condition for the loop to run (i must be less than 5), otherwise, it stop looping
 - statement 3: increases a value (i++) each time the code block in the loop has been executed
 ### do while loop
 This loop will execute the code block once, before
