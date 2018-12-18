@@ -6,6 +6,10 @@ Basically, it is the style of the Webpage, it controls all the STYLING STUFFS
 
 It describes how HTML displays on the screen, paper, etc.
 
+Later, we will use this specific document to show the changes of the CSS:
+
+http://scratchpad.io/nostalgic-rest-6290
+
 ### So, how does it works?
 
 Let's take a look at the following example:
